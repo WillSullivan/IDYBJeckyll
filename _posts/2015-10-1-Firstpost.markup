@@ -1,6 +1,9 @@
 ---
-layout:  downvote
-title:   First Post
+layout:    downvote
+title:     First Post
+permalink: FirstPost
+category:  so
+tags:      posts,first post
 ---
 
 First post test!
