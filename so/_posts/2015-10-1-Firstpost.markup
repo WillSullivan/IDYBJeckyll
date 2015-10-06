@@ -1,7 +1,6 @@
 ---
 layout:       downvote
 title:        First Post
-permalink:    FirstPost
 category:     so
 tags:         posts,first post
 description:  User posted an image of an exception rather than the text
