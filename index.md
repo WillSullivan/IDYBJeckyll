@@ -1,5 +1,7 @@
 ---
 iDownvotedYouBecause: I downvoted you because you were testing jeckyll while burning through unit tests in the background
+layout: default
+title: I downvoted you because
 ---
 ###I downvoted you because...
 
