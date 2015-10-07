@@ -1,6 +1,6 @@
 ---
 iDownvotedYouBecause: ... of what you did on one of these...
-layout: default
+layout: home
 title: I downvoted you because
 ---
 **Supported websites**
