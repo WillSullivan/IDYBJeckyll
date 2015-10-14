@@ -1,1 +1,5 @@
 baseurl:    /IDYBJeckyll
+gems:
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-feed
