@@ -1,5 +1,5 @@
 ---
-layout: so
+layout: home
 iDownvotedYouBecause: ...one of these many reasons
 title: I downvoted you on StackOverflow because
 ---
