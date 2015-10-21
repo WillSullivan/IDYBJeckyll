@@ -15,6 +15,7 @@ footer: I downvoted you because...
 # Build settings
 markdown: kramdown
 permalink: pretty
+baseurl: /IDYBJeckyll
 gems:
 - jekyll-mentions
 - jekyll-redirect-from
