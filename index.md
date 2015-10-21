@@ -23,8 +23,5 @@ This website hosts one page per reason why you downvoted someone.  Each reason h
 
 When you wish to let someone know why you downvoted them and how they could improve, simply leave a link to the relevant page.
 
-You can browse our current list of reasons, sorted by community, [here](AllTheReasons).  New pages are added all the time.  Can't find your specific reason?  Is it worth sharing with others?  Read below!
+You can browse our current list of reasons, sorted by community, [here](AllTheReasons).  New pages are added all the time.  Can't find your specific reason?  Is it worth sharing with others?  Continue reading.
 
-###You can help make this website better!
-
-This website is hosted on [GitHub](https://github.com/WillSullivan/IDownvotedYouBecause) and served via [GitHub Pages](https://pages.github.com/). This means that if you have a GitHub account you can request changes, updates, and new pages that cover different situations by [submitting an Issue](https://github.com/WillSullivan/IDownvotedYouBecause/issues/new).  You can even add them yourself by [forking](https://help.github.com/articles/fork-a-repo/) the website's [repository](https://github.com/WillSullivan/IDownvotedYouBecause), making the changes as you see fit.  Once completed, you can send me, @willSullivan, a [pull request](https://help.github.com/articles/using-pull-requests/) to add your changes to the website.
