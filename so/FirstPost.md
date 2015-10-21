@@ -1,5 +1,5 @@
 ---
-layout:       home
+layout:       default
 title:        First Post
 category:     so
 tags:         posts,first post

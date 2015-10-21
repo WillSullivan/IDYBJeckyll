@@ -1,0 +1,1 @@
+Place new help sections in this folder.  Use any .md file other than this as a template.

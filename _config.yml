@@ -1,4 +1,20 @@
-baseurl:    /IDYBJeckyll
+# Site settings
+title: I Downvoted you because...
+email: willsullivan@live.com
+url: http://idownvotedyoubecause.com
+description: "a website designed to help you help others understand why you downvoted them, in a productive and helpful manner"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: I downvoted you because...
+
+# Build settings
+markdown: kramdown
+permalink: pretty
 gems:
 - jekyll-mentions
 - jekyll-redirect-from
